@@ -1,5 +1,5 @@
 # HackRU-2022
-## Reichman's University annual Hackathon 2022: We won :)
+## Reichman University's annual Hackathon 2022: We won :)
 The challenge was to create a new feature for the brand FACTORY54 
 
 <br>
